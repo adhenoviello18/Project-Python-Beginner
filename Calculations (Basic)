@@ -1,0 +1,22 @@
+# Create 3 programs to complete the following calculations:
+# 1. Takes two numbers from user and outputs a subtraction 
+# 2. Takes two numbers from user and outputs a multiplication 
+# 3. Takes two numbers from user and outputs a division 
+
+#Answer 1
+num1= int(input(' number1? '))
+num2= int(input(' number2? '))
+calculation= num1+num2
+print(calculation)
+
+#Answer 2
+num1= int(input(' number1? '))
+num2= int(input(' number2? '))
+calculation= num1*num2
+print(calculation)
+
+#Answer 3
+num1= int(input(' number1? '))
+num2= int(input(' number2? '))
+calculation= num1/num2
+print(calculation)
