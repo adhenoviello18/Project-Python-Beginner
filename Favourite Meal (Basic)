@@ -1,0 +1,13 @@
+# Write a program that allows user to enter their favourite  strater, man course, dessert and drnk.
+
+BookBox= 'My Restaurant'
+
+Fav_starter= input(" What is your favourite starter? ")
+
+Fav_main= input(" What is your favourite main course ")
+
+Fav_dessert= input(" What is your favourite dessert? ")
+
+Fav_drink= input(" What is your favourite drink? ")
+
+print("What is your favourite starter? ", Fav_starter, "What is your favourite main course ", Fav_main, "What is your favourite dessert? ", Fav_dessert, "What is your favourite drink? ", Fav_drink)
